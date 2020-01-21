@@ -9,7 +9,7 @@ RDBMS (Relational Database Management System)
 
 ## (DML) Data Manipulation Language
 
-คือ ภาษาในการจัดการข้อมูล
+DML คือ ภาษาในการจัดการข้อมูล ประกอบไปด้วย
 
 - SELETE เป็นคำสั่งในการดึงข้อมูลออกมาจากฐานข้อมูล
 
